@@ -13,7 +13,7 @@ const Header = () => {
             <Link href="/protected/server">Protected (server)</Link>
           </li>
           <li className="text-sm">
-            <Link href="/protected/client">Protected (cliemt)</Link>
+            <Link href="/protected/client">Protected (client)</Link>
           </li>
           <li>
             <SignInButton />
